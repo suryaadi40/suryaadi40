@@ -1,16 +1,14 @@
-### Hi there 👋
+## Hi there, I'm Surya Adi! 👋
+I'm a backend programmer based in Bali, Indonesia. 
 
-<!--
-**suryaadi40/suryaadi40** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me
+- 🌱 I’m currently exploring various backend technologies and frameworks.
+- 👨‍💻 Languages: Go, Java, Python, JavaScript.
 
-Here are some ideas to get you started:
+### What I'm Currently Working On
+- Explore and Develop Java Spring Boot app for specific use cases.
+- Enhancing my skills in Python for data processing tasks and Fastapi Backend.
+- Experimenting with JavaScript/Typescript for backend with Node.js.
+- Embbeded device for movie makig equipment (Specially for now, Gyro logger for Gyroflow)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Feel free to reach out, connect, or collaborate on any projects!
